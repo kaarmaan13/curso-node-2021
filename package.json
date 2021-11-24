@@ -1,0 +1,17 @@
+{
+  "name": "03-bases-node",
+  "version": "1.0.0",
+  "description": "Aplicación sencilla de tablas de multiplicar en txt",
+  "main": "app.js",
+  "scripts": {
+    "base3": "node app --base=3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {}
+}
